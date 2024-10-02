@@ -1,0 +1,42 @@
+Package: boatinstrument
+Version: 0.1.0-0
+Architecture: amd64
+Installed-Size: 25740
+Depends: libgtk-3-0, libgstreamer-plugins-base1.0-0
+Maintainer: Phil Seeley <phil.seeley@gmail.com>
+Priority: optional
+Section: utilities
+Filename: pool/main/b/boatinstrument/boatinstrument_0.1.0-0_amd64.deb
+Size: 7749828
+SHA256: 31f3fd76c4dd74eec5d1ae59ae4be1538dcb51eeb56e5881176120aef3324fa0
+SHA1: 3cdd3e99c2a0d13e9f44e9a3a0f0af1c72ef5a6e
+MD5sum: 4afa42472c4693de8e17cc481e2d3733
+Description: A Boat Instrument for displaying SignalK data
+ A Boat Instrument for displaying data in fully configurable Boxes. The data is
+ received via a subscription to a SignalK server.
+ .
+ The SignalK server should be fed from your boat's NMEA data. The SignalK server
+ can run on any supported platform, but this is usually a Raspberry Pi running a
+ marine specific OS build.
+
+Package: boatinstrument-flutter-pi
+Version: 0.1.0-0
+Architecture: amd64
+Installed-Size: 29972
+Depends: libdrm2, libgbm1, libinput10, libxkbcommon0, libegl1, libgles2, libgl1-mesa-dri
+Maintainer: Phil Seeley <phil.seeley@gmail.com>
+Priority: optional
+Section: utilities
+Filename: pool/main/b/boatinstrument-flutter-pi/boatinstrument-flutter-pi_0.1.0-0_amd64.deb
+Size: 8319192
+SHA256: 607ffdbfb3e1427e66fd6d12b7dcd502b994a9dc18fa08ad712e1489492ef690
+SHA1: eec3a520c8287970b5d35e1d1b612c3f5a8ef44f
+MD5sum: e5c1cfddc1f38bd6c105949e581cef42
+Description: A Boat Instrument for displaying SignalK data
+ A Boat Instrument for displaying data in fully configurable Boxes. The data is
+ received via a subscription to a SignalK server.
+ .
+ The SignalK server should be fed from your boat's NMEA data. The SignalK server
+ can run on any supported platform, but this is usually a Raspberry Pi running a
+ marine specific OS build.
+

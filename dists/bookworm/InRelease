@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Phil Seeley
+Label: Debian PPA
+Codename: bookworm
+Date: Wed, 02 Oct 2024 18:20:17 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Apt repository for Phil Seeley
+MD5Sum:
+ dbd453f3f070f4473de00943bcf0dd58 1766 main/binary-amd64/Packages
+ af2b68680da38d4c670d322a22763778 729 main/binary-amd64/Packages.gz
+ 6efc0a0a5c3cfe40d9d9b7e4bdb64363 118 main/binary-amd64/Release
+ 5ecd372718b211e6f9afcb289d4b6f98 1766 main/binary-arm64/Packages
+ 51aeee4b13fac064aa3fc7d7e56b5920 732 main/binary-arm64/Packages.gz
+ bcbc909d49a1927b1b5c42ce6293f343 118 main/binary-arm64/Release
+SHA1:
+ dcb81fbf4670fba53ad06a37f32f5fdf21dd7a67 1766 main/binary-amd64/Packages
+ 95a7c6e6f524943917bc44b871b234b259d8b9b2 729 main/binary-amd64/Packages.gz
+ fc96a3814a9262fc030cbc302a589a57ff26f0b9 118 main/binary-amd64/Release
+ 7f903d514a391b81434ba0358eaa52a6e261557b 1766 main/binary-arm64/Packages
+ 26b34f344e93da8f2516f43619290bb37dd47942 732 main/binary-arm64/Packages.gz
+ d4aba18d60112f8283de2adcdfb9b82cc7769737 118 main/binary-arm64/Release
+SHA256:
+ 31b8f01fc6c0fb4d85de42e09a25db0783e34a7a15e096d113735bb0c564db32 1766 main/binary-amd64/Packages
+ 84018a18bddac4c8300c17a277d39f3ba802dd9ff8a806cb468cbd4937b4d716 729 main/binary-amd64/Packages.gz
+ 3ec81f55ee700e59f6176acc4f52c1be31de46e2411da3fb24d1e5bc0a6bdf43 118 main/binary-amd64/Release
+ abe0dcb04201ece4a9486d9c01c4fa6908d34c0266a4bd9771143524d438ae84 1766 main/binary-arm64/Packages
+ 64a28b58af86a3076842c971f51b1d1a1377e8f1f6840320e7a80c71f1f3a956 732 main/binary-arm64/Packages.gz
+ 0d822e712473a3273db1953c41660a44011c5a8271bb0b4ad45046324855e452 118 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEEiZGWFCZeCEtWXjbTg5M4dirlcIFAmb9jvAACgkQTg5M4dir
+lcKIeAv/Qu/GzNlzfRaCJuI98sELoHpeWTsl1swJHUk9NrD+FJSfu2jE/bNBj8Wg
+sDK4P5XtGbsYvBHt2EiNLVAgBC4Yr0h+Xe4K02ErFaFGRQdex/7923sL1aYqonN4
+f7EyAeSXn0FKc8PWdMDmtr/nfXMws8qo0HE0atpuB3ySaxf4Z+emeOg7M9P8ryqy
+IFY7sIVGi5tImjcVy7+wSSmUtYHFqKmJdHzBdxM8HTNYgD9ERhFnHx5gPXzsGUVW
+Njy1Ud5s6RhzQUGA/Q7D40XlPu6/V+w6Xzf1skSdARZaksQ+FoHIFkLJCqZFspxV
+hhNMpanaTCLYJeoLeowRAOjWJcBoub6vyNzTDqUZNag3nR7j8Ek4M/Fyl21YUjvt
+JHhruPZ+XXzCd9sC/J+/8em5757JAPgLBzeoqoHnJRNu5st4RAPS6iKdyAQHsrRw
+zy4ZNjSG5KdQmEPJWyb+a8/pJ8Mv1iIHC6TdM2bonvbacvCm2MKRHswJUlYvbbQv
+ACE56TlF
+=Os0h
+-----END PGP SIGNATURE-----
