@@ -1,0 +1,4 @@
+#!/bin/bash
+
+reprepro includedeb bookworm ~/shared/*.deb
+
