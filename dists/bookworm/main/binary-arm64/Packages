@@ -40,3 +40,25 @@ Description: A Boat Instrument for displaying SignalK data
  can run on any supported platform, but this is usually a Raspberry Pi running a
  marine specific OS build.
 
+Package: flutter-pi
+Version: 1.0.0-0
+Architecture: arm64
+Installed-Size: 476
+Depends: libdrm2, libgbm1, libinput10, libxkbcommon0, libegl1, libgles2, libgstreamer-plugins-base1.0-0
+Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
+Priority: optional
+Section: utilities
+Filename: pool/main/f/flutter-pi/flutter-pi_1.0.0-0_arm64.deb
+Size: 129592
+SHA256: 5f746ee0f6894dfd5eb8fba55164f6e97b185b64be58635ce16a4914d7a044d8
+SHA1: 802ec5c7028c98c3e7f8d7649c497888363e33ec
+MD5sum: ab0f17616b47908dd85e309cf8a02a64
+Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
+ Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
+ LXDE load up; just boot into the command-line.
+ .
+ You can now theoretically run every flutter app you want using flutter-pi, including apps using
+ packages & plugins, just that you'd have to build the platform side of the plugins you'd like to use yourself.
+ .
+ The difference between packages and plugins is that packages don't include any native code, they are just pure Dart.
+
