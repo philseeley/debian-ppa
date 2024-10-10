@@ -7,10 +7,10 @@ Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
 Filename: pool/main/b/boatinstrument/boatinstrument_0.1.0-0_amd64.deb
-Size: 7749828
-SHA256: 31f3fd76c4dd74eec5d1ae59ae4be1538dcb51eeb56e5881176120aef3324fa0
-SHA1: 3cdd3e99c2a0d13e9f44e9a3a0f0af1c72ef5a6e
-MD5sum: 4afa42472c4693de8e17cc481e2d3733
+Size: 7749732
+SHA256: 4f0d2fd0b34e0211d7a7f9ef87f0a9612345dcdfe2a6c09089257f22eb3b4467
+SHA1: 95f60a1039ffd436322721ba34fd4a999f5c6c7b
+MD5sum: 320ec04d8acbe6e301a469ce2d9274d9
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -23,15 +23,15 @@ Package: boatinstrument-flutter-pi
 Version: 0.1.0-0
 Architecture: amd64
 Installed-Size: 29972
-Depends: libdrm2, libgbm1, libinput10, libxkbcommon0, libegl1, libgles2, libgl1-mesa-dri
+Depends: libgl1-mesa-dri, flutter-pi
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
 Filename: pool/main/b/boatinstrument-flutter-pi/boatinstrument-flutter-pi_0.1.0-0_amd64.deb
-Size: 8319192
-SHA256: 607ffdbfb3e1427e66fd6d12b7dcd502b994a9dc18fa08ad712e1489492ef690
-SHA1: eec3a520c8287970b5d35e1d1b612c3f5a8ef44f
-MD5sum: e5c1cfddc1f38bd6c105949e581cef42
+Size: 8323136
+SHA256: be8d2c2bc8601bcca69b6bac3de3ac4ce090dd32d0db9b772746e2cf5895a73a
+SHA1: fdd0e2d95566f51f4be6cd9aef9cd75fde65ed70
+MD5sum: 1bc1a61cde0e4ea68bf5a38488d03ad8
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
