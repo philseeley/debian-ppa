@@ -44,15 +44,15 @@ Package: flutter-pi
 Version: 1.0.0-0
 Architecture: arm64
 Installed-Size: 476
-Depends: libdrm2, libgbm1, libinput10, libxkbcommon0, libegl1, libgles2, libgstreamer-plugins-base1.0-0
+Depends: libdrm2, libgbm1, libinput10, libxkbcommon0, libegl1, libgles2, libgstreamer-plugins-base1.0-0, libseat1
 Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
 Priority: optional
 Section: utilities
 Filename: pool/main/f/flutter-pi/flutter-pi_1.0.0-0_arm64.deb
-Size: 131008
-SHA256: 7b368d36de591fa9619dfe74144d60d20b2661dca2398947a676f8b550c66ea8
-SHA1: 8f467800f366e38e4167369f6f05ab9b7d7c98ef
-MD5sum: 2254b985e2987800974b805a82f4892e
+Size: 131032
+SHA256: d66b93abd501867eafa19bbf35c0195dc15f31b6e358ba5c0b354b5dc32a4a8f
+SHA1: 9fe8b38c0f670eed6c0401ce9220d0ded17e0ab2
+MD5sum: 49f98dbdac2597bb593786209399c91d
 Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
  Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
  LXDE load up; just boot into the command-line.
