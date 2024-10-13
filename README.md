@@ -5,7 +5,7 @@ Subscribe to the Debian repository:
 ```shell
 sudo echo if password required
 
-curl https://philseeley.github.io/debian-ppa/phil.seeley.gpg.key | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/phil.seeley.gpg
+curl https://philseeley.github.io/debian-ppa/phil.seeley.gpg.pem | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/phil.seeley.gpg
 
 echo 'deb https://philseeley.github.io/debian-ppa bookworm main' | sudo tee /etc/apt/sources.list.d/phil.seeley.list >/dev/null
 
