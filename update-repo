@@ -1,4 +1,5 @@
 #!/bin/bash
 
-reprepro includedeb bookworm ~/shared/*.deb
+reprepro includedeb bullseye ~/shared/*-d11_*.deb
+reprepro includedeb bookworm ~/shared/*-d12_*.deb
 

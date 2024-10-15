@@ -1,0 +1,64 @@
+Package: boatinstrument
+Version: 0.1.0-d11
+Architecture: amd64
+Installed-Size: 16
+Depends: libgtk-3-0, libgstreamer-plugins-base1.0-0
+Maintainer: Phil Seeley <phil.seeley@gmail.com>
+Priority: optional
+Section: utilities
+Filename: pool/main/b/boatinstrument/boatinstrument_0.1.0-d11_amd64.deb
+Size: 1636
+SHA256: be0744067cdd8424b5ddf7dec1ed8886d8fa1c1ed4a1dfafd32c35eeebb766db
+SHA1: 201701629df9278f4d8e20f1076c9fe8f254d359
+MD5sum: ac0f7fa877d8dcca753ae7032aef0ab7
+Description: A Boat Instrument for displaying SignalK data
+ A Boat Instrument for displaying data in fully configurable Boxes. The data is
+ received via a subscription to a SignalK server.
+ .
+ The SignalK server should be fed from your boat's NMEA data. The SignalK server
+ can run on any supported platform, but this is usually a Raspberry Pi running a
+ marine specific OS build.
+
+Package: boatinstrument-flutter-pi
+Version: 0.1.0-d11
+Architecture: amd64
+Installed-Size: 24
+Depends: libgl1-mesa-dri, flutter-pi
+Maintainer: Phil Seeley <phil.seeley@gmail.com>
+Priority: optional
+Section: utilities
+Filename: pool/main/b/boatinstrument-flutter-pi/boatinstrument-flutter-pi_0.1.0-d11_amd64.deb
+Size: 1796
+SHA256: cf79fe8b7210fcbdd85b1fcb1697a3c9a15a664e84a20bfe4da91ab421092210
+SHA1: 1d4300ef90c907f6462f26a6b754a5825d81b733
+MD5sum: bf5fca54cf0d5e4cbc799fec11df4608
+Description: A Boat Instrument for displaying SignalK data
+ A Boat Instrument for displaying data in fully configurable Boxes. The data is
+ received via a subscription to a SignalK server.
+ .
+ The SignalK server should be fed from your boat's NMEA data. The SignalK server
+ can run on any supported platform, but this is usually a Raspberry Pi running a
+ marine specific OS build.
+
+Package: flutter-pi
+Version: 1.0.0-d11
+Architecture: amd64
+Installed-Size: 464
+Depends: libdrm2, libgbm1, libinput10, libxkbcommon0, libegl1, libgles2, libgstreamer-plugins-base1.0-0, libseat1
+Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
+Priority: optional
+Section: utilities
+Filename: pool/main/f/flutter-pi/flutter-pi_1.0.0-d11_amd64.deb
+Size: 143020
+SHA256: 1534e67a972bc2ad02a4a0682143f6c36b8dd716ba4b2e62a33ebe9ca0dbc80e
+SHA1: ccda786233035d8d9c4a29535f384743229dd93d
+MD5sum: 8064ca9085def810d75321e92d5c666e
+Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
+ Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
+ LXDE load up; just boot into the command-line.
+ .
+ You can now theoretically run every flutter app you want using flutter-pi, including apps using
+ packages & plugins, just that you'd have to build the platform side of the plugins you'd like to use yourself.
+ .
+ The difference between packages and plugins is that packages don't include any native code, they are just pure Dart.
+

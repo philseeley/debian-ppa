@@ -1,28 +1,28 @@
 Origin: Phil Seeley
 Label: Debian PPA
 Codename: bookworm
-Date: Fri, 11 Oct 2024 18:35:43 UTC
+Date: Tue, 15 Oct 2024 17:55:52 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Apt repository for Phil Seeley
 MD5Sum:
- 98d4e4f72499d39fa5c68636a3c0e0e0 2786 main/binary-amd64/Packages
- b9437ab05309c36f9abf1aad9cdc33d7 1180 main/binary-amd64/Packages.gz
+ 42a0ab70cbfe1f410c352b56c20515d9 2786 main/binary-amd64/Packages
+ b84055330d00b13978123cb306ca1a4f 1173 main/binary-amd64/Packages.gz
  6efc0a0a5c3cfe40d9d9b7e4bdb64363 118 main/binary-amd64/Release
- 80f3ea280559aa55f0702c0dbadd0ef1 2786 main/binary-arm64/Packages
- 9d35c487e80e5c72d0790d0e75bf8ed9 1181 main/binary-arm64/Packages.gz
+ 0d0866825234ecb480991a8a02fcae32 2786 main/binary-arm64/Packages
+ ddfab7d29299ba73ff7dbb5cd1b3ba02 1174 main/binary-arm64/Packages.gz
  bcbc909d49a1927b1b5c42ce6293f343 118 main/binary-arm64/Release
 SHA1:
- ad63be017d6cc309914e271d49c98272e8f49d83 2786 main/binary-amd64/Packages
- cf5a0734a02a6cbf2a3ab0832666a160927894ed 1180 main/binary-amd64/Packages.gz
+ b54662c656aca4079c254afdba33890b106946af 2786 main/binary-amd64/Packages
+ da77212acf1776cc36899530400d7bc94b55342f 1173 main/binary-amd64/Packages.gz
  fc96a3814a9262fc030cbc302a589a57ff26f0b9 118 main/binary-amd64/Release
- 089f102e31bcd75fe493362d6442e37458662381 2786 main/binary-arm64/Packages
- c5bf7b27cef9893d2438e4682025df05a23e1356 1181 main/binary-arm64/Packages.gz
+ f11f41508b2ae64565fa583075df51d886262aeb 2786 main/binary-arm64/Packages
+ f35955e67f1d219ea9d69bf83c376fceb0d5a724 1174 main/binary-arm64/Packages.gz
  d4aba18d60112f8283de2adcdfb9b82cc7769737 118 main/binary-arm64/Release
 SHA256:
- a612398b88d0d03c483005bfea9598e3855e51b144e432af54bb8b72429d2470 2786 main/binary-amd64/Packages
- df6392dac9f8ef8d25caff05362c446d2e65b2d0410d5f4cbb3216e48aeab1a0 1180 main/binary-amd64/Packages.gz
+ d8f8fdd498de15661e5c1f3b106cc62f656798311334da8dc088341ae0889dcd 2786 main/binary-amd64/Packages
+ a1c6d758acf1aec0eb05686772d7a209fc2c403b92b2b26dd4a5c894ce7eeb2d 1173 main/binary-amd64/Packages.gz
  3ec81f55ee700e59f6176acc4f52c1be31de46e2411da3fb24d1e5bc0a6bdf43 118 main/binary-amd64/Release
- f75ece2a1b3b023646f75d0dd282f60bd0fbc4a3a987aa2d9f685dbbc093eb9a 2786 main/binary-arm64/Packages
- 61bbdf3915df1b381676e40758f5abab30b59b1fe0488b025ed3a658d6fe1792 1181 main/binary-arm64/Packages.gz
+ cac8b79f402e3de2d161cbeff24f72a905a372f33baa3c8d3fc480931ea1c237 2786 main/binary-arm64/Packages
+ 22821ec8b3cc161889541ee5666b245e1e1a859d0b82cf0dd5f272d0ec31a840 1174 main/binary-arm64/Packages.gz
  0d822e712473a3273db1953c41660a44011c5a8271bb0b4ad45046324855e452 118 main/binary-arm64/Release
