@@ -1,16 +1,16 @@
 Package: boatinstrument
-Version: 0.1.0-d12
+Version: 0.2.0-d12
 Architecture: arm64
 Installed-Size: 24668
 Depends: libgtk-3-0, libgstreamer-plugins-base1.0-0
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument/boatinstrument_0.1.0-d12_arm64.deb
-Size: 7083948
-SHA256: e37273789e57ee8a346ad84f75055b5361e799c0e32d5696464b888e0bed05eb
-SHA1: 01ab79cd4d8a744d4055c4ed822d604b35e011b2
-MD5sum: d0253abfadde436dbd4ca488ac55da15
+Filename: pool/main/b/boatinstrument/boatinstrument_0.2.0-d12_arm64.deb
+Size: 7080888
+SHA256: 6e0c7c1bad4471fccf8e6b7898dbc54d9f17d47a7104b6c37b2b0b0173289cee
+SHA1: f1c94dc43de3f10a64ce5a9634d91ce38f89c88a
+MD5sum: 36e35c6e8605e93ba85d13eec43cb51e
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -20,18 +20,18 @@ Description: A Boat Instrument for displaying SignalK data
  marine specific OS build.
 
 Package: boatinstrument-flutter-pi
-Version: 0.1.0-d12
+Version: 0.2.0-d12
 Architecture: arm64
 Installed-Size: 30200
 Depends: libgl1-mesa-dri, flutter-pi
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument-flutter-pi/boatinstrument-flutter-pi_0.1.0-d12_arm64.deb
-Size: 7729708
-SHA256: 15c7b652ef37fe08707e073c6fdf825b35252e604948e50c68160937707feb72
-SHA1: 05a91d8ba2886c907aa7ad3eefb723fc19ac96b0
-MD5sum: 7f0160c42e4d696804dfe2eb62fca23f
+Filename: pool/main/b/boatinstrument-flutter-pi/boatinstrument-flutter-pi_0.2.0-d12_arm64.deb
+Size: 7727244
+SHA256: b7e877820a1b326c343684c00695cf52657d84e6d9904b0585d54c6282862b01
+SHA1: 23e8558854f1428b1189a8e66a29dbdd28184345
+MD5sum: cd59c43d1fb9e5a9b65984fe56cf17cb
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
