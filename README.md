@@ -36,10 +36,10 @@ If you have a Raspberry PI with a dedicated screen.
 ```shell
 sudo apt install boatinstrument-f-pi-<type>
 ```
-Where <type> is one of:
-o generic
-o pi3
-o pi4
+Where \<type> is one of:
+- generic
+- pi3
+- pi4
 
 The Boat Instrument is automatically started on boot, but can be disabled with:
 ```shell
