@@ -7,10 +7,10 @@ Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
 Filename: pool/main/b/boatinstrument/boatinstrument_0.2.0-d12_arm64.deb
-Size: 7080888
-SHA256: 6e0c7c1bad4471fccf8e6b7898dbc54d9f17d47a7104b6c37b2b0b0173289cee
-SHA1: f1c94dc43de3f10a64ce5a9634d91ce38f89c88a
-MD5sum: 36e35c6e8605e93ba85d13eec43cb51e
+Size: 7078348
+SHA256: bdaea9ef338a44123916da7b9096806c1264a2d3716ce6ecac551d03a3ddf43f
+SHA1: 16163a0f7a3d361451476b036245ab93d4d44975
+MD5sum: 42647c7c470dd2e8ba778b6d8f85861f
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -19,19 +19,61 @@ Description: A Boat Instrument for displaying SignalK data
  can run on any supported platform, but this is usually a Raspberry Pi running a
  marine specific OS build.
 
-Package: boatinstrument-flutter-pi
+Package: boatinstrument-fpi-generic
 Version: 0.2.0-d12
 Architecture: arm64
-Installed-Size: 30200
+Installed-Size: 29832
 Depends: libgl1-mesa-dri, flutter-pi
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument-flutter-pi/boatinstrument-flutter-pi_0.2.0-d12_arm64.deb
-Size: 7727244
-SHA256: b7e877820a1b326c343684c00695cf52657d84e6d9904b0585d54c6282862b01
-SHA1: 23e8558854f1428b1189a8e66a29dbdd28184345
-MD5sum: cd59c43d1fb9e5a9b65984fe56cf17cb
+Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.2.0-d12_arm64.deb
+Size: 7786064
+SHA256: 80e6d4e254ae6d8aadca32e9a1d63840510bd277a7f320150820162ea30f194f
+SHA1: b99f026d5c95d2e29eaf5bf346c3cb758232e1e6
+MD5sum: 8ddd3cfa6264ecd6ab78d03559485301
+Description: A Boat Instrument for displaying SignalK data
+ A Boat Instrument for displaying data in fully configurable Boxes. The data is
+ received via a subscription to a SignalK server.
+ .
+ The SignalK server should be fed from your boat's NMEA data. The SignalK server
+ can run on any supported platform, but this is usually a Raspberry Pi running a
+ marine specific OS build.
+
+Package: boatinstrument-fpi-pi3
+Version: 0.2.0-d12
+Architecture: arm64
+Installed-Size: 30652
+Depends: libgl1-mesa-dri, flutter-pi
+Maintainer: Phil Seeley <phil.seeley@gmail.com>
+Priority: optional
+Section: utilities
+Filename: pool/main/b/boatinstrument-fpi-pi3/boatinstrument-fpi-pi3_0.2.0-d12_arm64.deb
+Size: 7981568
+SHA256: 10582ac7de449403c18210d5f9dba8ffac945566659e23c486e835454aa1b511
+SHA1: 2eb0c80d07d480a790a204821d1f0570a09e56e5
+MD5sum: a50e97d8b095feec97473e18016a2713
+Description: A Boat Instrument for displaying SignalK data
+ A Boat Instrument for displaying data in fully configurable Boxes. The data is
+ received via a subscription to a SignalK server.
+ .
+ The SignalK server should be fed from your boat's NMEA data. The SignalK server
+ can run on any supported platform, but this is usually a Raspberry Pi running a
+ marine specific OS build.
+
+Package: boatinstrument-fpi-pi4
+Version: 0.2.0-d12
+Architecture: arm64
+Installed-Size: 30192
+Depends: libgl1-mesa-dri, flutter-pi
+Maintainer: Phil Seeley <phil.seeley@gmail.com>
+Priority: optional
+Section: utilities
+Filename: pool/main/b/boatinstrument-fpi-pi4/boatinstrument-fpi-pi4_0.2.0-d12_arm64.deb
+Size: 7726556
+SHA256: d9fb25eb118743b759dcfa632cc8ab975d029d444a14b720e0a318ea08c02b93
+SHA1: 4d0229a3a20ad516d923faf8e45068fc7bbc02ec
+MD5sum: 71e5d92e2691f582546128f3d61681c4
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -49,10 +91,10 @@ Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
 Priority: optional
 Section: utilities
 Filename: pool/main/f/flutter-pi/flutter-pi_1.0.0-d12_arm64.deb
-Size: 130820
-SHA256: f831be993a1fd35112501f02ee1fdfb1d321f0488020e35e649db430656acf5a
-SHA1: 56edfe7b129026a25108ad9c682b833ac81c900c
-MD5sum: 686655b3d0c76f6551a0fa869fd70c92
+Size: 131056
+SHA256: 1ca95ee7e05e0be98ffbb86cde9218eb3b89a8c3a4643f33593d6a9c3bb70f0c
+SHA1: f8e11d551dc3a61819f3b83b2428bffc831b2ce9
+MD5sum: 0df123ed1774693c8300e48880c900f0
 Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
  Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
  LXDE load up; just boot into the command-line.

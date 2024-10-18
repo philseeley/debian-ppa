@@ -18,6 +18,8 @@ sudo apt update
 
 ## Boat Instrument - Desktop
 
+Debian bullseye(11) and bookworm(12) are supported.
+
 If you are running a desktop environment.
 
 ```shell
@@ -27,12 +29,19 @@ If using a menu driven desktop (e.g. LXDE), the Boat Instrument can be found in 
 
 ## Boat Instrument - flutter-pi
 
+Debian bullseye(11) and bookworm(12) are supported.
+
 If you have a Raspberry PI with a dedicated screen.
 
 ```shell
-sudo apt install boatinstrument-flutter-pi
+sudo apt install boatinstrument-f-pi-<type>
 ```
+Where <type> is one of:
+o generic
+o pi3
+o pi4
+
 The Boat Instrument is automatically started on boot, but can be disabled with:
 ```shell
-sudo systemctl disable --now boatinstrument-flutter-pi
+sudo systemctl disable --now getty@tty1
 ```

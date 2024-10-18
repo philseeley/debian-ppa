@@ -7,10 +7,10 @@ Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
 Filename: pool/main/b/boatinstrument/boatinstrument_0.2.0-d12_amd64.deb
-Size: 7747816
-SHA256: c7c7678ed7444c51bd4854de5cde3872016f30c1dc381619ce419f7bd21e66f4
-SHA1: 11363a21cb428400c94cf2377b13382098ade0b6
-MD5sum: 9c4972b5ce7b18c04ff4b880649fae92
+Size: 7749984
+SHA256: 4f9e728ea5bbc3cfd61fd8c75f3790939a80f45879abe5f2bad93e2b3146d65e
+SHA1: 32dbb2af07770c00ba157a8d4c7c17e5982ca7dd
+MD5sum: b90c2be60eba9fe3076bef51db67d4c9
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -19,19 +19,19 @@ Description: A Boat Instrument for displaying SignalK data
  can run on any supported platform, but this is usually a Raspberry Pi running a
  marine specific OS build.
 
-Package: boatinstrument-flutter-pi
+Package: boatinstrument-fpi-generic
 Version: 0.2.0-d12
 Architecture: amd64
-Installed-Size: 29892
+Installed-Size: 29888
 Depends: libgl1-mesa-dri, flutter-pi
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument-flutter-pi/boatinstrument-flutter-pi_0.2.0-d12_amd64.deb
-Size: 8322800
-SHA256: 4037b608166b5db5d5115e931249b5fb68a236f5676db2ba94d3e8d0c16f34fc
-SHA1: 752980511cf542c18bc0a54c86f991e5a5668550
-MD5sum: b3bef17eace3f5250d9c5c01f8b93481
+Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.2.0-d12_amd64.deb
+Size: 8321360
+SHA256: 8f29a12973db4579440a72a568ad561fa5fc0d0ebf6bed80cbc6824374e33d4b
+SHA1: 4ec9652b44749f9cc18abe55f105acb3adb62d8c
+MD5sum: c4aa777ec8e0e48a3a9375f65810e1f5
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -49,10 +49,10 @@ Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
 Priority: optional
 Section: utilities
 Filename: pool/main/f/flutter-pi/flutter-pi_1.0.0-d12_amd64.deb
-Size: 142284
-SHA256: 659ebbbd31e02fbbf2d4ba4e925acb1d4c4748181802edbc9be06546b3b036fd
-SHA1: f8b3ac3aaf654ba30c20a5fb5c1ef20c17ac26d5
-MD5sum: 84e318d3b41af190a64d4c560be9eab7
+Size: 142064
+SHA256: 6f9bb1a0906645c7e820daada8b2d00350e8a270a33396e13160b42cfaaad6b6
+SHA1: 2b9083261f67e6b5dde1f2728e3bf48b28ed0fb5
+MD5sum: b3d59e687df6bbebffb507aaf7a0e75b
 Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
  Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
  LXDE load up; just boot into the command-line.
