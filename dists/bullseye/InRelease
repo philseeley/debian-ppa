@@ -4,42 +4,42 @@ Hash: SHA512
 Origin: Phil Seeley
 Label: Debian PPA
 Codename: bullseye
-Date: Fri, 18 Oct 2024 21:56:43 UTC
+Date: Sat, 19 Oct 2024 21:44:42 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Apt repository for Phil Seeley
 MD5Sum:
- 9b809fb60e1c04e271eee671d03bd383 2801 main/binary-amd64/Packages
- 097110d2bfb0c4826ec7f016b38e4e00 1193 main/binary-amd64/Packages.gz
+ f6559f1af023d37b6b443047289c4d2b 2801 main/binary-amd64/Packages
+ 7735d4e1f0b020992d982b48cc6d8065 1190 main/binary-amd64/Packages.gz
  6efc0a0a5c3cfe40d9d9b7e4bdb64363 118 main/binary-amd64/Release
- 8d3c6dadf5314e58e7f6d92aab0de73c 4523 main/binary-arm64/Packages
- 29381150d08effc15be12e7784860a69 1435 main/binary-arm64/Packages.gz
+ 0cd2723ea2590f4f153009545362377d 4523 main/binary-arm64/Packages
+ 3015115eb05eb4077e6d9e54b5976a32 1435 main/binary-arm64/Packages.gz
  bcbc909d49a1927b1b5c42ce6293f343 118 main/binary-arm64/Release
 SHA1:
- 3ae1ce918e5e2701976e694fb4955c48b8b3f9fc 2801 main/binary-amd64/Packages
- 6a598ffb33b9492486321ef04e2b46c86695f597 1193 main/binary-amd64/Packages.gz
+ ee8eaf5529b7ee1e33081bd5102cac2ab49745fa 2801 main/binary-amd64/Packages
+ 43eaf5869510e9a789b7c0829d48c60cdcad1586 1190 main/binary-amd64/Packages.gz
  fc96a3814a9262fc030cbc302a589a57ff26f0b9 118 main/binary-amd64/Release
- 7ca70a06f342494affefda19e43300ddceed65bb 4523 main/binary-arm64/Packages
- 51a827a10be5e9c84985c84779d6fec25c50def3 1435 main/binary-arm64/Packages.gz
+ d8a4e1869dae66f4e85e1399cbe4747a897a08a1 4523 main/binary-arm64/Packages
+ 9855e5ec954ceebe0cde525693814645098ebf30 1435 main/binary-arm64/Packages.gz
  d4aba18d60112f8283de2adcdfb9b82cc7769737 118 main/binary-arm64/Release
 SHA256:
- cc8405c849cd0cffc73daadbf48b06e96e3914bbefe6cc74fef605bf59923e20 2801 main/binary-amd64/Packages
- 0563746820414ef90408a10b9e2da87490c16c3847b049186ad511ff6b4b797b 1193 main/binary-amd64/Packages.gz
+ 30764ff95da62a6c29ed850966a9e3e6ba1ad5537f310e5e975f56017bf7ed1b 2801 main/binary-amd64/Packages
+ 4d789796276341b5b62dbd61db58c5229bb47366ef9873269cc70746048797ec 1190 main/binary-amd64/Packages.gz
  3ec81f55ee700e59f6176acc4f52c1be31de46e2411da3fb24d1e5bc0a6bdf43 118 main/binary-amd64/Release
- c5da011f0b649cf556c93b46e09a87597106c8250bc3327e1308bf0b7cc344b8 4523 main/binary-arm64/Packages
- 082ea6c7bd3e186898141830f05cd90969df5eda2bd3c93c10b1a734745d548a 1435 main/binary-arm64/Packages.gz
+ 6319d7905a4ef72311a63367d2b883b14ea9b72c3875b48b1c0058470284d189 4523 main/binary-arm64/Packages
+ 61ae5263767f7751f05b94f3980034a7c3d5da1729f993c02c6ac6d518128e1a 1435 main/binary-arm64/Packages.gz
  0d822e712473a3273db1953c41660a44011c5a8271bb0b4ad45046324855e452 118 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEEiZGWFCZeCEtWXjbTg5M4dirlcIFAmcS2agACgkQTg5M4dir
-lcIawAwAgYhdPtUJq7oJOLcgwCgEzz0WEA95mwaARHTtr+TdI74hIjY7cW3i9n5O
-yQ0M0af/axwNUm8PHNU1hwOdk5QMXwngTwUvB0fKMi59rvHQbuixy/n/d9CsvEL7
-UgxUzgxASKH5gtXeQFrdcb50T05wKrq8U6r19qu77Yo/liK1/ONaRlglbvDPBWeV
-Bsxyt8YFfqGEZX5W51+8UjEiiqVDeWDmQKjO6rOP+9zHrGIp1+8A+RmY8iMt6KE5
-Ec3YqHNfxm0eOgwZ8lE56izg9VbYMqWqwemTNfcdiohJm5iO2GmKeC/3WAkOvKy4
-DL5vJJ3bEByY2wzT4xaUFZIpT+Fy5ydDT1dDF4iiOT9blJ52Qf5jdCGhCRzpotVj
-hUYKwK97VgqpxuSaYyjfSO6a7CGtGnxaWEOm/Etq1eqJ4iOO6FqiZd+oqNkNh003
-7wVCETujSy36vlaD/27cT9B3zKQwxWFTRIUALvX9f9dIb9qjCSE8cqme3yNi+enD
-Qs6s9fs6
-=AhBm
+iQGzBAEBCgAdFiEEEiZGWFCZeCEtWXjbTg5M4dirlcIFAmcUKEsACgkQTg5M4dir
+lcIfugv/YMSnpG0EA91OGO/euPObQA57wd8Q6djuG+XU73i4OqFob4veagyGNvgm
+kVZFJaHRK11SGRo3bZZa1Y+T+/DQk46V8NFagJ5CciuFhchH9Uj5jgLxSmBFevk9
+k1Ma48WZCgnd442c75ZAtsBbCBuOoJKQgrzpHGLtorbDrzkk0LY80W2gMtElNfY5
+fNIzJ8BFuwo9b9N6j7bmP7Vgvw0NgIi4z/y8Ow3gLz2KK8/ys9xBarDfMpjI6QGj
+hrYx8tAdjtBq0+KPpIBpJZYruj7HNcN7hNtwjyPCV0HZPUvIreBVisPAxy3jvzak
+LlnOtHMRQT5+6D6gbr0ilhrMZU3WVOs6/k2EMyzBR48ycqHqjD8cmmDJ+NIzjyTZ
+UVdzcgN7sbo84BdY4OiZms/2hR3ucc8M3slWij5dYLPe1fFHkOXZdv0LHlOKtU2b
+0I058ufOauSamywhlH1lDUZCvKPHGFRCfP08TpbSByTR2QIMMKfLvONXfNx52g2X
+5BgchKCv
+=iS5V
 -----END PGP SIGNATURE-----

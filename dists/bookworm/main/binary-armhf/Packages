@@ -1,0 +1,43 @@
+Package: boatinstrument-fpi-generic
+Version: 0.2.0-d12
+Architecture: armhf
+Installed-Size: 27620
+Depends: libgl1-mesa-dri, flutter-pi
+Maintainer: Phil Seeley <phil.seeley@gmail.com>
+Priority: optional
+Section: utilities
+Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.2.0-d12_armhf.deb
+Size: 7657808
+SHA256: f64a50b4c1e478ce0b1dbf5132d21dca972769822023ee3403f43a2a1983e2e7
+SHA1: 47ea2cfee64944fb7cf8cf46f3c382c0c83aab03
+MD5sum: b89c7b8cb685cc003bc8c97f621823f1
+Description: A Boat Instrument for displaying SignalK data
+ A Boat Instrument for displaying data in fully configurable Boxes. The data is
+ received via a subscription to a SignalK server.
+ .
+ The SignalK server should be fed from your boat's NMEA data. The SignalK server
+ can run on any supported platform, but this is usually a Raspberry Pi running a
+ marine specific OS build.
+
+Package: flutter-pi
+Version: 1.0.0-d12
+Architecture: armhf
+Installed-Size: 356
+Depends: libdrm2, libgbm1, libinput10, libxkbcommon0, libegl1, libgles2, libgstreamer-plugins-base1.0-0, libseat1
+Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
+Priority: optional
+Section: utilities
+Filename: pool/main/f/flutter-pi/flutter-pi_1.0.0-d12_armhf.deb
+Size: 130492
+SHA256: d266d49030040693ea3299b05878f436a4699008a742ae361443ef9d311b1ea6
+SHA1: 19f594c3a625a3c1244322fcbe0210c9aecb5029
+MD5sum: 07ed30d9d22e275f5a42e311fa7ff9d1
+Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
+ Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
+ LXDE load up; just boot into the command-line.
+ .
+ You can now theoretically run every flutter app you want using flutter-pi, including apps using
+ packages & plugins, just that you'd have to build the platform side of the plugins you'd like to use yourself.
+ .
+ The difference between packages and plugins is that packages don't include any native code, they are just pure Dart.
+

@@ -9,7 +9,7 @@ SignWith: 5CDAFD251F5ED242A7150B2766A1D3D4D374476B
 Origin: Phil Seeley
 Label: Debian PPA
 Codename: bookworm
-Architectures: amd64 arm64
+Architectures: amd64 arm64 armhf
 Components: main
 Description: Apt repository for Phil Seeley
 SignWith: 5CDAFD251F5ED242A7150B2766A1D3D4D374476B
