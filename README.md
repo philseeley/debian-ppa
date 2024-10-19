@@ -18,9 +18,9 @@ sudo apt update
 
 ## Boat Instrument - Desktop
 
-Debian bullseye(11) and bookworm(12) are supported.
-
 If you are running a desktop environment.
+
+Debian bullseye(11) and bookworm(12) are supported for amd64 and arm64.
 
 ```shell
 sudo apt install boatinstrument
@@ -29,12 +29,14 @@ If using a menu driven desktop (e.g. LXDE), the Boat Instrument can be found in 
 
 ## Boat Instrument - flutter-pi
 
-Debian bullseye(11) and bookworm(12) are supported.
-
 If you have a Raspberry PI with a dedicated screen.
 
+Debian bullseye(11) and bookworm(12) for all \<type>s are supported for amd64 and arm64.
+
+A bookworm(12) build for the "generic" \<type> is also supported for arm32.
+
 ```shell
-sudo apt install boatinstrument-f-pi-<type>
+sudo apt install boatinstrument-fpi-<type>
 ```
 Where \<type> is one of:
 - generic
