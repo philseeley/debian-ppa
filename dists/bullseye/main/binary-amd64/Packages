@@ -7,10 +7,10 @@ Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
 Filename: pool/main/b/boatinstrument/boatinstrument_0.2.0-d11_amd64.deb
-Size: 7758740
-SHA256: 67f48ffb89ffb33a81f11ec08fbd076b9bcbb72d79cd3d461632efe106075aaa
-SHA1: 2e72f910bb1e923b57126b33f6deda6b8bac5e91
-MD5sum: ccf6b6a0131e198e3c7920890f33e1e2
+Size: 7759268
+SHA256: a08d98f9d92f992a084ad7a019c84e0caf644d0856704ecf7edc5068a761eeaf
+SHA1: 0d8d9bb5e0ad8578e99922f2e77a3c389088aa9c
+MD5sum: 59964666e92ff2e12f3897dc133ae95f
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -28,10 +28,10 @@ Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
 Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.2.0-d11_amd64.deb
-Size: 8328648
-SHA256: 0d44f2b4724e5a914b9b13950b604fc4a4c1d779689622012def69885965ce48
-SHA1: 6c0a44f71c8c2f48083338bfcaced8ecf035cb3b
-MD5sum: 52cfc36ee56a94b66298b225a44111a2
+Size: 8328700
+SHA256: e1b77f20383245de86a4e64510cc5b3ec0595c114247c171329f8a9d71fce2e0
+SHA1: 2c43a2b4c06a22eda85e4884d2cca64edca45f3c
+MD5sum: 0afe6057bfdfa0fca429b2ea777e9532
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -49,10 +49,10 @@ Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
 Priority: optional
 Section: utilities
 Filename: pool/main/f/flutter-pi/flutter-pi_1.0.0-d11_amd64.deb
-Size: 143308
-SHA256: f75d288a17cdb914febe28bef091b719f1bc8ec27c47120f350200e0a307b84e
-SHA1: d3ad102fe4a5f5207f6df71553544c0127aa10eb
-MD5sum: ce8aa4bd4bae9d374f36b9c294a8816e
+Size: 142792
+SHA256: 564a0fb7ac1dfc36aadb6e3eda0d3f37daff98b6cae432e26638bcb5c4fa01f6
+SHA1: b16f001e279449a359863ad8dc08ada3c0092c70
+MD5sum: e4ddd3deda325e03a1c58304120489ff
 Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
  Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
  LXDE load up; just boot into the command-line.
