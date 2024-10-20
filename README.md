@@ -33,6 +33,15 @@ If you have a Raspberry PI with a dedicated screen.
 
 Debian bullseye(11) and bookworm(12) for all \<type>s are supported for amd64 and arm64.
 
+**Note:** for bullseye(11) you need to enable "bullseye backports" to satisfy all dependencies.
+
+```shell
+
+echo "deb http://deb.debian.org/debian/ bullseye-backports main" | sudo tee /etc/apt/sources.list.d/bullseye-backports.list >/dev/null
+
+sudo apt update
+```
+
 A bookworm(12) build for the "generic" \<type> is also supported for arm32.
 
 ```shell
@@ -43,7 +52,7 @@ Where \<type> is one of:
 - pi3
 - pi4
 
-The Boat Instrument is automatically started on boot, but can be disabled with:
+The Boat Instrument is automatically started on TTY1 at boot, but can be disabled with:
 ```shell
 sudo systemctl disable --now getty@tty1
 ```
