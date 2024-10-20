@@ -7,10 +7,10 @@ Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
 Filename: pool/main/b/boatinstrument/boatinstrument_0.2.0-d11_arm64.deb
-Size: 7078404
-SHA256: a53cf053dfd7588af9c9a783479446b8af2119a50e2031240e3e19be71132474
-SHA1: 882b717c87b13e62859da08ac740add4ca02febd
-MD5sum: 05e89fb2c11897035cc30ef9caf4c235
+Size: 7085124
+SHA256: fa3756103a40cf42c7727adf0a84461eced48bbc867f92d761b928304351d0b9
+SHA1: 9158bbce93a220dd990cac085632f9fe81bb15bb
+MD5sum: a309b3b7754c650da3aa5c434772829d
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -28,10 +28,10 @@ Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
 Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.2.0-d11_arm64.deb
-Size: 7788248
-SHA256: 344dbbaf9bc72eb8cb836062ce01a0d061f658ba0451da89d7e09bd810757bcf
-SHA1: 2a41eaf2148185283e7b5fb2e31618ea7941eb7c
-MD5sum: c47bc1f1523b38313a775efd22bfe86b
+Size: 7794008
+SHA256: 066a116e997bfea2fb8d70c2bc846eac5d692f651c6fc1926e312f4679c97b55
+SHA1: da358b0c13e57efade2cf07f4ca50f177b258987
+MD5sum: 94eaac4b4a6600fabd719e25b5e0c589
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -49,10 +49,10 @@ Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
 Filename: pool/main/b/boatinstrument-fpi-pi3/boatinstrument-fpi-pi3_0.2.0-d11_arm64.deb
-Size: 7980560
-SHA256: a5dc39c1159a7f4c0ea7b517d302f02ab2e4b4cfbaf3330479ab89a2f6cfa7a6
-SHA1: 12492d016b756996a724cf97b04975e46954185a
-MD5sum: e2ff1034336fd68ef8182c6037160b5b
+Size: 7987500
+SHA256: 3254e17e620e14ae63834b949fc20248c4df41cdace23711e4b8e995c68cfdd9
+SHA1: 7445abe2128c85e750a6d03b3a8657b335b6bb1e
+MD5sum: e7c0b799a80c115e664a9a99ed28adfe
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -70,10 +70,10 @@ Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
 Filename: pool/main/b/boatinstrument-fpi-pi4/boatinstrument-fpi-pi4_0.2.0-d11_arm64.deb
-Size: 7724684
-SHA256: 10ced4ed562b44facf5341136e98ab55e12ff3f9a12f37a59440867cef04c9e9
-SHA1: 5b6e215215ff4c173ece834eb1b1c6229c6b966c
-MD5sum: af5d52095c99452bd1a2329cdd64e544
+Size: 7730904
+SHA256: 805617edda2b36ffad5aff799c0b4450864d7e45fc598e0c1156759f6a22cc75
+SHA1: 0efe6ca27b00c7b88a387721449486b141f33591
+MD5sum: 10cf374c2a517d29014ebce46bac2e97
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -91,10 +91,10 @@ Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
 Priority: optional
 Section: utilities
 Filename: pool/main/f/flutter-pi/flutter-pi_1.0.0-d11_arm64.deb
-Size: 132680
-SHA256: ccfa3ac08242590a7bf2ac5bc7a7f24f8e8bdff75792750839b047516a700dec
-SHA1: ee0e66bae232502fa76d61979c3233af0a41e31a
-MD5sum: 5565e582ad4edae129a410905b7e30e3
+Size: 132916
+SHA256: 07836c3b29cc2b6501e08944a72bc8cc825413ba1d73e57597073889f6473694
+SHA1: 3f7f8119f886fe8896307c6466c4caa4419be675
+MD5sum: b785524b0a1854143d5a36b4c64698e9
 Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
  Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
  LXDE load up; just boot into the command-line.

@@ -1,16 +1,16 @@
 Package: boatinstrument
 Version: 0.2.0-d12
 Architecture: amd64
-Installed-Size: 25672
+Installed-Size: 25704
 Depends: libgtk-3-0, libgstreamer-plugins-base1.0-0
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
 Filename: pool/main/b/boatinstrument/boatinstrument_0.2.0-d12_amd64.deb
-Size: 7749328
-SHA256: 6a2f660fc6e18ec4e599f43b2c8e61cd2d39edd3d9388a413a5833531cbf64d2
-SHA1: 4fe42703a858b9d192a1384462f2f3891b83e47e
-MD5sum: 666cb3e328114192d9a7a8ca39932db9
+Size: 7757276
+SHA256: f4c1097b5d9fbe01ca9383ef8fcbc2adc4494c3d5cf8f773101147911b309552
+SHA1: 428585db5ad1659d882d27efbf784d8e5ad4ed9e
+MD5sum: 4097eba3bd270e220f6c0ad07478b548
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -22,16 +22,16 @@ Description: A Boat Instrument for displaying SignalK data
 Package: boatinstrument-fpi-generic
 Version: 0.2.0-d12
 Architecture: amd64
-Installed-Size: 29888
+Installed-Size: 29920
 Depends: libgl1-mesa-dri, flutter-pi
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
 Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.2.0-d12_amd64.deb
-Size: 8321704
-SHA256: cdeb8c8b139f04004216cd8d8f17cce0061a0293bd5f7a2ddb4a249dcc3303c4
-SHA1: 1a4e14aab68ac3f9400ac9f60e77d69ab19c681b
-MD5sum: 83a74d4cf76dd21e04e9fc19a3e84130
+Size: 8328300
+SHA256: 9b8e19a24f1500419365b728b9c4bb7ae30b4a294591a97893e9dfa9eda02d50
+SHA1: 030e4a65437f53713b4b584aad47c3638e805bab
+MD5sum: e973144abed6b636a6b6abc315e41821
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -49,10 +49,10 @@ Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
 Priority: optional
 Section: utilities
 Filename: pool/main/f/flutter-pi/flutter-pi_1.0.0-d12_amd64.deb
-Size: 142116
-SHA256: fc955b34646043533ae9e729d74a6e72a623d6be15ac4a20f9e169bdf1d5f833
-SHA1: d7b67776abd078ff812429b9b2ec4a38bd85a438
-MD5sum: 6e3532a2a611a4d5d4f7957a664c1311
+Size: 142532
+SHA256: 7decad24e9469a93f01325a24a5cddc1534e02cfb667c2f84d98904834db6dce
+SHA1: 02da54024cb942ece68b8669c4384038d0e4fa0a
+MD5sum: 89254bbf707c00b8af4ac2fb2dbd2f52
 Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
  Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
  LXDE load up; just boot into the command-line.
