@@ -29,7 +29,7 @@ If using a menu driven desktop (e.g. LXDE), the Boat Instrument can be found in 
 
 ## Boat Instrument - flutter-pi
 
-If you have a Raspberry PI with a dedicated screen.
+If you have a Raspberry PI with a dedicated screen that boots to the console.
 
 Debian bullseye(11) and bookworm(12) for all \<type>s are supported for amd64 and arm64.
 
