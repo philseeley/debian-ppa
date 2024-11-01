@@ -43,16 +43,16 @@ Description: A Boat Instrument for displaying SignalK data
 Package: flutter-pi
 Version: 1.0.0-d11
 Architecture: amd64
-Installed-Size: 464
+Installed-Size: 468
 Depends: libdrm2, libgbm1, libinput10, libxkbcommon0, libegl1, libgles2, libgstreamer-plugins-base1.0-0, libseat1
 Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
 Priority: optional
 Section: utilities
 Filename: pool/main/f/flutter-pi/flutter-pi_1.0.0-d11_amd64.deb
-Size: 142792
-SHA256: 564a0fb7ac1dfc36aadb6e3eda0d3f37daff98b6cae432e26638bcb5c4fa01f6
-SHA1: b16f001e279449a359863ad8dc08ada3c0092c70
-MD5sum: e4ddd3deda325e03a1c58304120489ff
+Size: 144284
+SHA256: c0ce096e03efc9cc60de3d1c15448d9013462911f878722415ee915face55ebb
+SHA1: a4847003bd9fd12ffd1c2470b85388ae89bfa2b3
+MD5sum: 7208923c8490b9f546c045b40335f85c
 Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
  Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
  LXDE load up; just boot into the command-line.

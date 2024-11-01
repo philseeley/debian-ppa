@@ -91,10 +91,10 @@ Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
 Priority: optional
 Section: utilities
 Filename: pool/main/f/flutter-pi/flutter-pi_1.0.0-d11_arm64.deb
-Size: 132880
-SHA256: 1193f49b0d4720b29aff44649681de17fe8f9e9aea731953bf3af668db5ee5d7
-SHA1: 8bc432e0fd711199993c3d1a8ed29953e5725710
-MD5sum: 8c9a01ab01b720f27a550d210e97a3c7
+Size: 133504
+SHA256: d5fc646c86b7077af49b5fd508c90397cd87fc54165fa21e8816fc6440c7942b
+SHA1: d5a655b032b227bb459ee89d9bbe8ae898da830d
+MD5sum: a3f225719ee91d3370ac02ed6d5c8675
 Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
  Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
  LXDE load up; just boot into the command-line.

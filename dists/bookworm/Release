@@ -1,7 +1,7 @@
 Origin: Phil Seeley
 Label: Debian PPA
 Codename: bookworm
-Date: Sun, 20 Oct 2024 21:12:31 UTC
+Date: Fri, 01 Nov 2024 22:01:51 UTC
 Architectures: amd64 arm64 armhf
 Components: main
 Description: Apt repository for Phil Seeley
