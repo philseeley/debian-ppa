@@ -1,16 +1,16 @@
 Package: boatinstrument-fpi-generic
-Version: 0.2.0-d12
+Version: 0.3.0-d12
 Architecture: armhf
-Installed-Size: 27652
+Installed-Size: 27756
 Depends: libgl1-mesa-dri, flutter-pi
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.2.0-d12_armhf.deb
-Size: 7666460
-SHA256: 9aebd4621ff170b607643ddddafa8a29477f5cda6703872affe9debc0e2c1c0f
-SHA1: c6e4d27207ffb54c731e354912247402f41b2d93
-MD5sum: 43e72bf20b0aac54e3667ee25362af8b
+Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.3.0-d12_armhf.deb
+Size: 7694552
+SHA256: 94c52b8e38d49776ebecc9aab97d0abda2c5006895615b9ea94d3533128af2c8
+SHA1: e64d20581f4b992b1b399e8c5c74052ecb81ef84
+MD5sum: 97e5625a87bbc9eedfaf925f1270a4fa
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
