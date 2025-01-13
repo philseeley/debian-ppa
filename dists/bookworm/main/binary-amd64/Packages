@@ -1,16 +1,16 @@
 Package: boatinstrument
-Version: 0.3.0-d12
+Version: 0.4.0-d12
 Architecture: amd64
-Installed-Size: 25784
+Installed-Size: 25972
 Depends: libgtk-3-0, libgstreamer-plugins-base1.0-0
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument/boatinstrument_0.3.0-d12_amd64.deb
-Size: 7784612
-SHA256: 486e4eafa8fbfdf9cf7d210101316eeee90ad3d86a4313dc46ebdf01798e1756
-SHA1: 048d514b9cac466d8993cec169b65d38b87743b4
-MD5sum: 2cec0ca6c8a6c91cf66d49c04c74fb76
+Filename: pool/main/b/boatinstrument/boatinstrument_0.4.0-d12_amd64.deb
+Size: 7835560
+SHA256: 2a015ac3e68a115f6d21d1a6e6b07efbfc041db5bc97bdecc83c98fe11068d4f
+SHA1: 0ecff4e3a7090bb8bb9f40e61cbab47d5eb9755d
+MD5sum: f3118148b8757ec4b6749ba11a46088a
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -20,18 +20,18 @@ Description: A Boat Instrument for displaying SignalK data
  marine specific OS build.
 
 Package: boatinstrument-fpi-generic
-Version: 0.3.0-d12
+Version: 0.4.0-d12
 Architecture: amd64
-Installed-Size: 30008
+Installed-Size: 30676
 Depends: libgl1-mesa-dri, flutter-pi
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.3.0-d12_amd64.deb
-Size: 8356132
-SHA256: 1ccb241456a4d7f3edf980491807994a3c50f1d619bc5f42d91d99ef71f0a4b8
-SHA1: 24331f1155a8481e74484df5326747c00bd477d6
-MD5sum: 83063fa39c493c1b28618539c214f500
+Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.4.0-d12_amd64.deb
+Size: 8422612
+SHA256: b2a85fc7389f5c942fefb5b42180fa376b3a9de21019806ff93d23d4fa368d13
+SHA1: 3330c376b00104a166a7bde2c294b453defd0587
+MD5sum: a77c3ce1a70870a0ec00250dd6191ae6
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
