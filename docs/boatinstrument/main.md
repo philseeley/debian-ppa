@@ -27,3 +27,10 @@ If required, the config can be manually edited. This is easier if it is reformat
 ```shell
 python3 -m json.tool boatinstrument.json >boatinstrument-formatted.json
 ```
+## Box Path Mapping
+
+When a page is displayed, the Boxes register the paths they require. After consolidation to remove any duplicates, the app then subscribes to these via a SignalK WebSocket.
+
+The current list of subscriptions being used by the app can be viewed from the Settings page.
+
+This is list of [Box to Path Mappings](box-path-mappings.md).
