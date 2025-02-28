@@ -22,6 +22,8 @@ This can be exported and imported from the Settings Page. Its on disk location d
 If found, this is moved to "/boatinstrument.json" before the instrument is started.
 This allows you to update the configuration on a minimal OS via the SD Card, e.g. one without SSH or other access.
 
+If you exit the instrument (from the Settings Page) the configuration file is copied to "/boot/boatinstrument.json.running". The instrument is then restarted.
+
 If required, the config can be manually edited. This is easier if it is reformatted with:
 
 ```shell
