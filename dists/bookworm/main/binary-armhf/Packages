@@ -1,16 +1,16 @@
 Package: boatinstrument-fpi-generic
-Version: 0.5.0-d12
+Version: 0.6.0-d12
 Architecture: armhf
-Installed-Size: 28488
+Installed-Size: 28508
 Depends: libgl1-mesa-dri, flutter-pi
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.5.0-d12_armhf.deb
-Size: 7956552
-SHA256: f79d90334bdcec01a7c56091a1d6604d3e1715dd9dfb61100c7d021b97a569c4
-SHA1: 0f42ff1c1bdd4758f71bf899744ed1b99ba6d347
-MD5sum: 48c5b1ef2a336b76e0c8d67a531a98d9
+Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.6.0-d12_armhf.deb
+Size: 7957916
+SHA256: d0f0bd62cac87479834594dc665e315f739da2791e59e6d011e0e3006a859a1c
+SHA1: e6f38502722dad0a5b838ef58d1a941a47ca0523
+MD5sum: 05aa6e98f1945ac1c17aea47ee10256e
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -20,18 +20,18 @@ Description: A Boat Instrument for displaying SignalK data
  marine specific OS build.
 
 Package: flutter-pi
-Version: 1.0.0-d12
+Version: 1.0.1-d12
 Architecture: armhf
 Installed-Size: 356
 Depends: libdrm2, libgbm1, libinput10, libxkbcommon0, libegl1, libgles2, libgstreamer-plugins-base1.0-0, libseat1
 Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
 Priority: optional
 Section: utilities
-Filename: pool/main/f/flutter-pi/flutter-pi_1.0.0-d12_armhf.deb
-Size: 130456
-SHA256: b140ed612b6644701483c52fc52060ec554adb3a6d59beca7258fb117b193979
-SHA1: 402531958dabf968e53f07f345eb170a156c39f4
-MD5sum: 1dac405668306ed3084e91d9a2af275c
+Filename: pool/main/f/flutter-pi/flutter-pi_1.0.1-d12_armhf.deb
+Size: 130664
+SHA256: b363091012232f41eb00e8c70a0f0c7d07008cc6ef6582f7f482ebe8263be6e7
+SHA1: c56ff913b0bcd64cc1668755a3fb9376fcffe360
+MD5sum: 0335c4068c257440c5b8dc64d4ad50dd
 Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
  Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
  LXDE load up; just boot into the command-line.
