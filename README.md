@@ -44,7 +44,7 @@ Debian bullseye(11) and bookworm(12) are supported for amd64 and arm64.
 
 ```shell
 
-echo "deb http://deb.debian.org/debian/ bullseye-backports main" | sudo tee /etc/apt/sources.list.d/bullseye-backports.list >/dev/null
+echo "deb http://archive.debian.org/debian/ bullseye-backports main" | sudo tee /etc/apt/sources.list.d/bullseye-backports.list >/dev/null
 
 sudo apt update
 ```

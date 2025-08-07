@@ -1,16 +1,16 @@
 Package: boatinstrument-fpi-generic
-Version: 0.6.0-d12
+Version: 0.7.0-d12
 Architecture: armhf
-Installed-Size: 28508
-Depends: libgl1-mesa-dri, flutter-pi
+Installed-Size: 29880
+Depends: libgl1-mesa-dri, flutter-pi, sudo
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.6.0-d12_armhf.deb
-Size: 7957916
-SHA256: d0f0bd62cac87479834594dc665e315f739da2791e59e6d011e0e3006a859a1c
-SHA1: e6f38502722dad0a5b838ef58d1a941a47ca0523
-MD5sum: 05aa6e98f1945ac1c17aea47ee10256e
+Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.7.0-d12_armhf.deb
+Size: 8249052
+SHA256: 51e872b4747b31501db945a3b81f5d430da9a00f4bab1ea53d76676d8431843a
+SHA1: 50f6bf8adf6f9f0c8ca73b6bc27aedae088163f2
+MD5sum: 8ad77a552ee47aba9b24f97519f293e8
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -20,18 +20,18 @@ Description: A Boat Instrument for displaying SignalK data
  marine specific OS build.
 
 Package: flutter-pi
-Version: 1.0.1-d12
+Version: 1.0.2-d12
 Architecture: armhf
 Installed-Size: 356
 Depends: libdrm2, libgbm1, libinput10, libxkbcommon0, libegl1, libgles2, libgstreamer-plugins-base1.0-0, libseat1
 Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
 Priority: optional
 Section: utilities
-Filename: pool/main/f/flutter-pi/flutter-pi_1.0.1-d12_armhf.deb
-Size: 130664
-SHA256: b363091012232f41eb00e8c70a0f0c7d07008cc6ef6582f7f482ebe8263be6e7
-SHA1: c56ff913b0bcd64cc1668755a3fb9376fcffe360
-MD5sum: 0335c4068c257440c5b8dc64d4ad50dd
+Filename: pool/main/f/flutter-pi/flutter-pi_1.0.2-d12_armhf.deb
+Size: 130820
+SHA256: 67b38e684201d658fac015693611d7d25350b8c82af42cef1615e3592ad5476b
+SHA1: 5df2080dca5432eeebf0773a0b6490f795df45a7
+MD5sum: 7569453f2c1d40a8de0314038f022e56
 Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
  Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
  LXDE load up; just boot into the command-line.
