@@ -2,4 +2,5 @@
 
 reprepro includedeb bullseye ~/shared/*-d11_*.deb
 reprepro includedeb bookworm ~/shared/*-d12_*.deb
+reprepro includedeb trixie ~/shared/*-d13_*.deb
 

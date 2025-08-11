@@ -1,0 +1,37 @@
+Origin: Phil Seeley
+Label: Debian PPA
+Codename: trixie
+Date: Mon, 11 Aug 2025 19:49:25 UTC
+Architectures: amd64 arm64 armhf
+Components: main
+Description: Apt repository for Phil Seeley
+MD5Sum:
+ 5e0a9809192a69eb657e6938348e5aa5 2814 main/binary-amd64/Packages
+ 3e25962ad9df3434ee2d32a3d6e3e5a8 1197 main/binary-amd64/Packages.gz
+ 6efc0a0a5c3cfe40d9d9b7e4bdb64363 118 main/binary-amd64/Release
+ 7bd91a95e10fc4308243a64e6f956518 4548 main/binary-arm64/Packages
+ 707e0c153b4bbee3c16f9ad56c15d47b 1443 main/binary-arm64/Packages.gz
+ bcbc909d49a1927b1b5c42ce6293f343 118 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ 36ba123bfebc3754a3a1b637893a45b7 118 main/binary-armhf/Release
+SHA1:
+ d1133e89209c67ffee05faffff21a5131a784ddd 2814 main/binary-amd64/Packages
+ 5e385c58d4b15e746706c06da45f01d5d1e2043f 1197 main/binary-amd64/Packages.gz
+ fc96a3814a9262fc030cbc302a589a57ff26f0b9 118 main/binary-amd64/Release
+ f817221b2dc98d56ba7ddd2f68be54411a92674b 4548 main/binary-arm64/Packages
+ a44e5e35224f8328069d70b707ac3c11e0377a28 1443 main/binary-arm64/Packages.gz
+ d4aba18d60112f8283de2adcdfb9b82cc7769737 118 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ 74a0d878db3beaaca1f27f2f5b2254d8274aa076 118 main/binary-armhf/Release
+SHA256:
+ fd87cb875fb6fd0308b0524681c194fe8d1fcc4a0e3c8facb3b1dd31a1b1325b 2814 main/binary-amd64/Packages
+ 4e94002c742de713b4c4930dff25a93062dd27d6fbd990f20422181a09901aed 1197 main/binary-amd64/Packages.gz
+ 3ec81f55ee700e59f6176acc4f52c1be31de46e2411da3fb24d1e5bc0a6bdf43 118 main/binary-amd64/Release
+ f96a29d71e63393e499eeaae1457ae882566417470a98a957065371a5bcb1e9d 4548 main/binary-arm64/Packages
+ c7f47b62432b8a68ddfa38ae13fd9a27fbb2dd713ce2e4506fdc54562509b929 1443 main/binary-arm64/Packages.gz
+ 0d822e712473a3273db1953c41660a44011c5a8271bb0b4ad45046324855e452 118 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ 167588ef13cebc50e874ae388d54de368d031818e56ab86e620e4bad802710d3 118 main/binary-armhf/Release

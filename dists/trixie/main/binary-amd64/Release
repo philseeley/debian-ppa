@@ -1,0 +1,5 @@
+Component: main
+Origin: Phil Seeley
+Label: Debian PPA
+Architecture: amd64
+Description: Apt repository for Phil Seeley

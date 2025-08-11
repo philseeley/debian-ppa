@@ -27,7 +27,7 @@ There are two flavours of installation, one for Desktop environments and one for
 
 If you are running a desktop environment.
 
-Debian bullseye(11) and bookworm(12) are supported for amd64 and arm64.
+Debian bullseye(11), bookworm(12) and trixie(13) are supported for amd64 and arm64.
 
 ```shell
 sudo apt install boatinstrument
@@ -38,7 +38,7 @@ If using a menu driven desktop (e.g. LXDE), the Boat Instrument can be found in 
 
 If you have a Raspberry PI with a dedicated screen that boots to the console.
 
-Debian bullseye(11) and bookworm(12) are supported for amd64 and arm64.
+Debian bullseye(11), bookworm(12) and trixie(13) are supported for amd64 and arm64.
 
 **Note:** for bullseye(11) you need to enable "bullseye backports" to satisfy all dependencies.
 
