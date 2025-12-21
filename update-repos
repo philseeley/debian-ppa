@@ -6,9 +6,13 @@ then
   exit 1
 fi
 
+set -e
+
 dir=$1
 
 reprepro --keepunreferencedfiles includedeb bullseye ${dir}/*-d11_*.deb
 reprepro --keepunreferencedfiles includedeb bookworm ${dir}/*-d12_*.deb
 reprepro --keepunreferencedfiles includedeb trixie   ${dir}/*-d13_*.deb
+
+rm ${dir}/*-d11_*.deb ${dir}/*-d12_*.deb ${dir}/*-d13_*.deb
 
