@@ -1,16 +1,17 @@
 Package: boatinstrument
-Version: 0.7.0-d12
+Version: 0.8.0-d12
 Architecture: arm64
-Installed-Size: 54608
+Installed-Size: 57996
 Depends: libgtk-3-0, libgstreamer-plugins-base1.0-0, sudo
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument/boatinstrument_0.7.0-d12_arm64.deb
-Size: 13777480
-SHA256: 75506c121e228421f1867896029536c622cde77e5232fb508bdb94078a6f66d4
-SHA1: 5e7d69992810eb5f05310c49ee2cd27c529ae6a5
-MD5sum: 6ef2b5e7f9537fe66dfd54a3c1ba4aa7
+Filename: pool/main/b/boatinstrument/boatinstrument_0.8.0-d12_arm64.deb
+Size: 15053252
+SHA512: 6c78d0b00eb876e548c522b1e75bafbb2879d69cbfe9bda15e07a7f9cc64b3aa08d26a546627eefc2d1df5577c215a8f41677690fc12cff26cf5d21bf58f3ae1
+SHA256: ed717d6c6694bce04fd8c8d06cc27081606ddc7012146c51170d15f4195e43dd
+SHA1: 3812a931469169d5641dca27fbc6cd88f8b692f9
+MD5sum: 76483b71c6055f75680307d9ada0ab24
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -20,18 +21,19 @@ Description: A Boat Instrument for displaying SignalK data
  marine specific OS build.
 
 Package: boatinstrument-fpi-generic
-Version: 0.7.0-d12
+Version: 0.8.0-d12
 Architecture: arm64
-Installed-Size: 32188
+Installed-Size: 35360
 Depends: libgl1-mesa-dri, flutter-pi, sudo
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.7.0-d12_arm64.deb
-Size: 8405496
-SHA256: 3dde7bbd92941535d82f2129587065411b5a0fb16e8a6813d0ec206df07e4e90
-SHA1: d8e6c985e7f3f7a42d4fccac730f8aa4983c42e9
-MD5sum: 18f51bb3e58ea99a89020e60b8b27c17
+Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.8.0-d12_arm64.deb
+Size: 9642572
+SHA512: 9f80a503f6245ab3f7c347fa1290198f9a90e95c790d80422094f4a3c9af5178bffca1bf9f0a7be050add82fa9e8c12659467da2b5697bdd8cf905d53ea28c0c
+SHA256: 8522a805e1fbbf2a3124a3e58f8c57ab2296558eb8ed159dc4e4182a1f570dcc
+SHA1: 6aa0d039e0ec91c6f6c4beee441906066a0beee9
+MD5sum: de0015fc2d91072d1c540cb2da0afd45
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -41,18 +43,19 @@ Description: A Boat Instrument for displaying SignalK data
  marine specific OS build.
 
 Package: boatinstrument-fpi-pi3
-Version: 0.7.0-d12
+Version: 0.8.0-d12
 Architecture: arm64
-Installed-Size: 33072
+Installed-Size: 36248
 Depends: libgl1-mesa-dri, flutter-pi, sudo
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument-fpi-pi3/boatinstrument-fpi-pi3_0.7.0-d12_arm64.deb
-Size: 8619112
-SHA256: 0548f34e0ec675279515eb5cd548b085a8c584113fb1d272a37354d599597c69
-SHA1: ff26ff6ae4d5460d8a03f8da469b29dd75b321fb
-MD5sum: 2a484acfa822d0fcf3b90b4d496e8922
+Filename: pool/main/b/boatinstrument-fpi-pi3/boatinstrument-fpi-pi3_0.8.0-d12_arm64.deb
+Size: 9855236
+SHA512: 32a7eb21ff100c82af56698d9e8f52ac48ad60c4d8df10b0944e187928db830090dc86ceaad520a98eac14968cfb2060d6b1195339acdd555101696f17d5ed7c
+SHA256: 94b75ef3106de8519cdb45b648383965b4ade0fdf78d678d6dfe999862090d26
+SHA1: b7b56bbac93b51f4c7bd0251b6c439db5fa4e88e
+MD5sum: 2a3c5e2c72a39247c574c04ef9f7cfb9
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -62,18 +65,19 @@ Description: A Boat Instrument for displaying SignalK data
  marine specific OS build.
 
 Package: boatinstrument-fpi-pi4
-Version: 0.7.0-d12
+Version: 0.8.0-d12
 Architecture: arm64
-Installed-Size: 32576
+Installed-Size: 35752
 Depends: libgl1-mesa-dri, flutter-pi, sudo
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument-fpi-pi4/boatinstrument-fpi-pi4_0.7.0-d12_arm64.deb
-Size: 8350852
-SHA256: c495160051b2cca93431f3726b0ef4c0399436b594367abf72b6f08677190870
-SHA1: a0c304e5054d0363664420dd47e1ba80af2e874c
-MD5sum: 943ee8f884a10b73a19eed12d813ecdd
+Filename: pool/main/b/boatinstrument-fpi-pi4/boatinstrument-fpi-pi4_0.8.0-d12_arm64.deb
+Size: 9582008
+SHA512: 61380977551a3e8d8ddb8287aa8b4b524005d95f9deafe0fc474b34d7be999656430c4309f773bd326e09e8852082d36c127ba764d0f79c8a7c61487dd451d6e
+SHA256: 56937390bec736d48ea613b7057f2e07c2602a940096e5589b8606f7cadceee6
+SHA1: 0db97f83d20b64ad33dcfbf39ea7b2c2d812c33a
+MD5sum: bc0edbe7886565dbee11fc195faa790e
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -83,18 +87,19 @@ Description: A Boat Instrument for displaying SignalK data
  marine specific OS build.
 
 Package: flutter-pi
-Version: 1.0.2-d12
+Version: 1.0.3-d12
 Architecture: arm64
-Installed-Size: 452
+Installed-Size: 456
 Depends: libdrm2, libgbm1, libinput10, libxkbcommon0, libegl1, libgles2, libgstreamer-plugins-base1.0-0, libseat1
 Maintainer: Hannes Winkler <hanneswinkler2000@web.de>
 Priority: optional
 Section: utilities
-Filename: pool/main/f/flutter-pi/flutter-pi_1.0.2-d12_arm64.deb
-Size: 130968
-SHA256: c7fbed28068c020af96a9915cc0309314d1cb544c418d8e27688a4a9253aebf9
-SHA1: 9f5a6d110a0be639aae26d714a6462dd87535d2f
-MD5sum: 61f1ed7251699284a09206061efe33e9
+Filename: pool/main/f/flutter-pi/flutter-pi_1.0.3-d12_arm64.deb
+Size: 131292
+SHA512: 202e3ee5463307e7fc44ca42a6f2ca42a308dfd30a9b6e0bb8a04e8ac2ff7adb9c99509fce9d7f75059a407f8611d6a7aa58d3086c489e21bb622a7111fe8a17
+SHA256: 7cabeb99cd1e2a8b10032a3cae5057c4607dc38317b930709421a2e73c838a41
+SHA1: 72a13bd6e85188c35b61baae6c6269c8e5283427
+MD5sum: a840536dee756678f7a7e187e68300ee
 Description: A light-weight Flutter Engine Embedder for the Raspberry Pi
  Flutter-pi also runs without X11, so you don't need to boot into Raspbian Desktop & have X11 and
  LXDE load up; just boot into the command-line.
