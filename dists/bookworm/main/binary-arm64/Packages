@@ -1,17 +1,17 @@
 Package: boatinstrument
-Version: 0.9.0-d12
+Version: 0.9.1-d12
 Architecture: arm64
-Installed-Size: 16
+Installed-Size: 48616
 Depends: libgtk-3-0, libgstreamer-plugins-base1.0-0, sudo
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument/boatinstrument_0.9.0-d12_arm64.deb
-Size: 5512
-SHA512: e53bd73510a3de44a85ac32f372ade20da85aa1bef2f5bce131ae821e1b7fb1d336ab30d70cb22058caa4b1be1c8cc4b1673120c05f1bf073eb706f8749a90a4
-SHA256: 2e9aa26583f186c75262e636fa94f7d86afad40810411655812f18c039cd4457
-SHA1: 7434886c0d714b5169ff864bac742cbfa1bf4954
-MD5sum: b9ffd51a2fddc9cd9db1d21520d546a4
+Filename: pool/main/b/boatinstrument/boatinstrument_0.9.1-d12_arm64.deb
+Size: 13077156
+SHA512: 0ce004d18ac5b82f613b4757bd6cc4e3941603768f2856389221c010ff87d02986fd7c6f0ccfceac4960dd808b5861fc7ce1298daaab468f081bec3badecd99d
+SHA256: befc090ebb1e0e123ef164a8750c24809f11d1ac049ab5cab8289efae1ef98b1
+SHA1: 666b2b791ccd55b55bcf692c75030adb4df46088
+MD5sum: 6486fe0b1edfc6928cf6d805fff19463
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -21,19 +21,19 @@ Description: A Boat Instrument for displaying SignalK data
  marine specific OS build.
 
 Package: boatinstrument-fpi-generic
-Version: 0.9.0-d12
+Version: 0.9.1-d12
 Architecture: arm64
-Installed-Size: 35000
+Installed-Size: 35004
 Depends: libgl1-mesa-dri, flutter-pi, sudo
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.9.0-d12_arm64.deb
-Size: 9967420
-SHA512: 443557daecf081db62b132e21a9125f0bb15235013bb41015210419f35a2e6f1a8182dafc439a3916f48004dc33e7e0c75b03bafd5124827c34505a460736c4b
-SHA256: 81d830676f632129843b9e4c7d5d25f683ea256450a8dc9463339d9c5b3ced3b
-SHA1: 2a0826fdd20f2d37e51079186cbe6ec5448e08f4
-MD5sum: ecade6aec7de9bf8d3198719d4bd6628
+Filename: pool/main/b/boatinstrument-fpi-generic/boatinstrument-fpi-generic_0.9.1-d12_arm64.deb
+Size: 9968212
+SHA512: bbecd154463b81061e616dd19aa8a1cfb43b0645120a0d210466084d3ce60e9ed515a047f06250e0fcab8e9077fd70de087f6243a83de57be2b0fe7777bb67e1
+SHA256: d3c215a5b3a0f4a9c0e937b293610fe25e79e152d45b53b27bd5f17602a9dd03
+SHA1: 3b0bf88a06944886bb0ecc53b9bd3269774e978e
+MD5sum: 3b77684a6bba771008550598d4a0493f
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -43,19 +43,19 @@ Description: A Boat Instrument for displaying SignalK data
  marine specific OS build.
 
 Package: boatinstrument-fpi-pi3
-Version: 0.9.0-d12
+Version: 0.9.1-d12
 Architecture: arm64
-Installed-Size: 36296
+Installed-Size: 36300
 Depends: libgl1-mesa-dri, flutter-pi, sudo
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument-fpi-pi3/boatinstrument-fpi-pi3_0.9.0-d12_arm64.deb
-Size: 10296184
-SHA512: f0b369ad4562fb2c3d92167390f6d7cc7bfdfca89b8197160b7af9e75e9e3288dbe050f94f22a0f56450110c89c45f19768a27cc939dd7539e18e1156e091c9e
-SHA256: c8544edec5bed13fd1074e8df3a504af80034757b115e22a60b502515baca693
-SHA1: 5adcc8237330d65dbaa8a61f5d8355b5071467c7
-MD5sum: 65a1404dbb5e96800a5f951847357aaf
+Filename: pool/main/b/boatinstrument-fpi-pi3/boatinstrument-fpi-pi3_0.9.1-d12_arm64.deb
+Size: 10295476
+SHA512: cce2d2326d8c6aac396b8a803730f37c82aa2133d0ab03526fdc99f634d9e8e351c70bba9caf7fefbbbc2389f108506a56dbae2fa70a494f3160433d85e5c5fd
+SHA256: 570e2ab33305e37b1676e2ca6cd7d9996bc4fe4006f678e524ef1d9b8c43fdab
+SHA1: 2c1005414f636f06ab055623081b92fbdd4dd48c
+MD5sum: ac2d1001c257378b55e657fc48876d91
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
@@ -65,19 +65,19 @@ Description: A Boat Instrument for displaying SignalK data
  marine specific OS build.
 
 Package: boatinstrument-fpi-pi4
-Version: 0.9.0-d12
+Version: 0.9.1-d12
 Architecture: arm64
-Installed-Size: 35364
+Installed-Size: 35368
 Depends: libgl1-mesa-dri, flutter-pi, sudo
 Maintainer: Phil Seeley <phil.seeley@gmail.com>
 Priority: optional
 Section: utilities
-Filename: pool/main/b/boatinstrument-fpi-pi4/boatinstrument-fpi-pi4_0.9.0-d12_arm64.deb
-Size: 9921344
-SHA512: 81e9e994edd3073de84ae7725c997b71f57969e9f78250ccc415b8f65ed0d150b894ce327c3748b40eadf1c983903abd1e6a951b9479cb3e5e7a4002bad04d27
-SHA256: 3933b8578080c8e9cf37fa51ffb26d2b03eb04d5595387f1306644036dd2f950
-SHA1: eb2dd67e481f91e0ce303e9a5eeb9fc8605f14a9
-MD5sum: 9d22fdcc37135a000e843a2edf3cee94
+Filename: pool/main/b/boatinstrument-fpi-pi4/boatinstrument-fpi-pi4_0.9.1-d12_arm64.deb
+Size: 9912436
+SHA512: 195c8d88ddea43b06342bba88bb7b9803579b260f1de0b28c1f81fd677ab699c27ca715ec81630b46bfa339f196642c6c7180244582aeba70d0a714d97dc87a5
+SHA256: adf250b1d1c8e2b441d725cbd6b981bec91fe3b4acfe9bcedc72d6020e5b286a
+SHA1: caa6748cf4cd2353f528576f1a06448da624450f
+MD5sum: e39ac9d14bbf69a4f47e3e11b2c337eb
 Description: A Boat Instrument for displaying SignalK data
  A Boat Instrument for displaying data in fully configurable Boxes. The data is
  received via a subscription to a SignalK server.
